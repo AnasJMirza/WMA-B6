@@ -7,3 +7,5 @@ let isAuth = true
 console.table([userId, name, age, isAuth]);
 
 
+
+
